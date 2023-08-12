@@ -941,7 +941,7 @@ button[aria-label="Send a gift"] {
 }
 .wordmark-2u86JB:after {
   filter: invert(var(--watermark-filter-invert)) sepia(var(--watermark-filter-sepia)) saturate(var(--watermark-filter-saturate)) hue-rotate(var(--watermark-filter-hue-rotate)) brightness(var(--watermark-filter-brightness)) contrast(var(--watermark-filter-contrast));
-  content: url("");
+  content: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeiconspng.com%2Fimages%2Frain-png&psig=AOvVaw2VcxQ2OrBVo-5UqIjkSm1P&ust=1691964947566000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDtmN6S2IADFQAAAAAdAAAAABAm");
 }
 
 .channelName-3KPsGw,
